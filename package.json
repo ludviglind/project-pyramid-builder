@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ludviglind/pyramid-builder/issues"
   },
-  "homepage": "https://github.com/ludviglind/pyramid-builder#readme"
+  "homepage": "https://github.com/ludviglind/pyramid-builder#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
